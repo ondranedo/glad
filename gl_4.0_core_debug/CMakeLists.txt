@@ -1,0 +1,1 @@
+add_library(glad_lib STATIC src/gl.c glad/gl.h KHR/khrplatform.h)
