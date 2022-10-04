@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.2)
 
-project(glad)
+project(glad_fork)
 
 add_subdirectory("gl_4.0_core_debug")
 

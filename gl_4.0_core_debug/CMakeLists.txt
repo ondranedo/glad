@@ -1,1 +1,3 @@
-add_library(glad_lib STATIC src/gl.c include/glad/gl.h include/KHR/khrplatform.h)
+add_library(glad STATIC
+"include/glad/gl.h"
+"src/gl.c")
